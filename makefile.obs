@@ -1,1 +1,1 @@
-{"exp_path": "TestProj/Test/test.exe", "exp_type": "release", "headless": True, "proj_path": "TestProj/Test/"}
+{"exp_path": "TestProj/Test/test.exe", "exp_type": "release", "headless": 1, "proj_path": "TestProj/Test/"}
